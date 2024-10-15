@@ -32,7 +32,7 @@ This project is a basic implementation of a load balancer using NodeJS and Expre
 2. **Run npm link to install the bin command globally:**
 
    ```bash
-  npm link
+   npm link
    
 ## Usage
 
