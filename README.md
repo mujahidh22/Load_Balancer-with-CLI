@@ -29,6 +29,10 @@ This project is a basic implementation of a load balancer using NodeJS and Expre
    cd load-balancer
    npm install
 
+2. **Run npm link to install the bin command globally:**
+
+   ```bash
+  npm link
    
 ## Usage
 
