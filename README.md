@@ -20,7 +20,7 @@ This project is a basic implementation of a load balancer using NodeJS and Expre
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/load-balancer.git
+   git clone https://github.com/your-username/Load_balancer-with-CLI.git
 
    
 2. **Install dependencies:**
